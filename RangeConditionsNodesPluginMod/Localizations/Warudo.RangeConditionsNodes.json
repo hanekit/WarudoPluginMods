@@ -1,0 +1,36 @@
+{
+  "en": {
+    // Basic Info
+    "RANGE_CONDITIONS_NODES_PLUGIN_NAME": "Range Conditions Nodes",
+    "RANGE_CONDITIONS_NODES_PLUGIN_DESCRIPTION": "Contains several range conditions nodes.",
+    "RANGE_CONDITIONS": "Range Conditions",
+    // Node Name
+    "FLOAT_RANGE_CONDITIONS_TO_INTEGER": "Float Range Conditions To Integer",
+    "FLOAT_RANGE_CONDITIONS_TO_STRING": "Float Range Conditions To String",
+    // Port Name
+    "INPUT_FLOAT_VARIABLE": "Input Float 𝑥",
+    "CONDITIONS": "Conditions",
+    "RANGE": "Range",
+    "INCLUDE_X": "Include X",
+    "INCLUDE_Y": "Include Y",
+    "MATCH_OUTPUT": "Match Output",
+    "NO_MATCH_OUTPUT": "No Match Output",
+  },
+  "zh_CN": {
+    // 基础信息
+    "RANGE_CONDITIONS_NODES_PLUGIN_NAME": "范围条件节点包",
+    "RANGE_CONDITIONS_NODES_PLUGIN_DESCRIPTION": "包含多个范围条件节点。",
+    "RANGE_CONDITIONS": "范围条件",
+    // 节点名
+    "FLOAT_RANGE_CONDITIONS_TO_INTEGER": "Float 范围条件到 Integer",
+    "FLOAT_RANGE_CONDITIONS_TO_STRING": "Float 范围条件到 String",
+    // 端口名
+    "INPUT_FLOAT_VARIABLE": "输入 Float 𝑥",
+    "CONDITIONS": "条件",
+    "RANGE": "范围",
+    "INCLUDE_X": "包含 X",
+    "INCLUDE_Y": "包含 Y",
+    "MATCH_OUTPUT": "匹配后输出",
+    "NO_MATCH_OUTPUT": "无匹配输出",
+  }
+}

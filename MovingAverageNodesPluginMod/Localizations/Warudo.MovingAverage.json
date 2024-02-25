@@ -1,0 +1,24 @@
+{
+  "en": {
+    "MOVING_AVERAGE_PLUGIN_NAME": "Moving Average Plugin",
+    "MOVING_AVERAGE_PLUGIN_DESCRIPTION": "Contains several nodes to calculate the moving average of some data types.",
+    "MOVING_AVERAGE_NODE_CATEGORY": "Moving Average",
+    "FLOAT_MOVING_AVERAGE_NODE_TITLE": "Float Moving Average",
+    "VECTOR3_MOVING_AVERAGE_NODE_TITLE": "Vector3 Moving Average",
+    "MOVING_AVERAGE_SAMPLE_DATA_SOURCE": "Sample Data Source",
+    "MOVING_AVERAGE_SAMPLE_SIZE": "Sample Size",
+    "MOVING_AVERAGE_CURRENT_SAMPLE_LIST": "Current Sample List",
+    "MOVING_AVERAGE_VALUE": "Moving Average Value"
+  },
+  "zh_CN": {
+    "MOVING_AVERAGE_PLUGIN_NAME": "滑动平均插件",
+    "MOVING_AVERAGE_PLUGIN_DESCRIPTION": "包含多个节点用于计算几种数据类型的滑动平均。",
+    "MOVING_AVERAGE_NODE_CATEGORY": "滑动平均",
+    "FLOAT_MOVING_AVERAGE_NODE_TITLE": "Float 滑动平均",
+    "VECTOR3_MOVING_AVERAGE_NODE_TITLE": "Vector3 滑动平均",
+    "MOVING_AVERAGE_SAMPLE_DATA_SOURCE": "样本数据源",
+    "MOVING_AVERAGE_SAMPLE_SIZE": "样本数量",
+    "MOVING_AVERAGE_CURRENT_SAMPLE_LIST": "当前样本列表",
+    "MOVING_AVERAGE_VALUE": "滑动平均值"
+  }
+}
