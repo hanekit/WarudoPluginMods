@@ -4,13 +4,13 @@
     "MOUSE_POSITION_NODES_PLUGIN_NAME": "Mouse Position Nodes Plugin",
     "MOUSE_POSITION_NODES_PLUGIN_DESCRIPTION": "Contains several nodes to get the position of mouse.",
     "MOUSE_POSITION_NODES_NODE_CATEGORY": "Mouse Position",
-    // Node Name
+    // Node Title
     "MOUSE_POSITION_RELATIVE_TO_WARUDO_CORNER": "Mouse Position Relative To Warudo Corner",
     "MOUSE_POSITION_RELATIVE_TO_WARUDO_CENTER": "Mouse Position Relative To Warudo Center",
     "MOUSE_POSITION_RELATIVE_TO_SCREEN": "Mouse Position Relative To Screen",
     "WARUDO_WINDOW_POSITION": "Warudo Window Position",
     "WARUDO_WINDOW_SIZE": "Warudo Window Size",
-    // Port Name
+    // Label Text
     "WIDTH": "Width",
     "HEIGHT": "Height",
     "OFFSET_X": "Origin Offset X",
@@ -21,13 +21,13 @@
     "MOUSE_POSITION_NODES_PLUGIN_NAME": "鼠标位置节点插件",
     "MOUSE_POSITION_NODES_PLUGIN_DESCRIPTION": "包含多个节点用于获取鼠标位置。",
     "MOUSE_POSITION_NODES_NODE_CATEGORY": "鼠标位置",
-    // 节点名
+    // 节点标题
     "MOUSE_POSITION_RELATIVE_TO_WARUDO_CORNER": "鼠标相对 Warudo 角落位置",
     "MOUSE_POSITION_RELATIVE_TO_WARUDO_CENTER": "鼠标相对 Warudo 中心位置",
     "MOUSE_POSITION_RELATIVE_TO_SCREEN": "鼠标相对屏幕位置",
     "WARUDO_WINDOW_POSITION": "Warudo 窗口位置",
     "WARUDO_WINDOW_SIZE": "Warudo 窗口尺寸",
-    // 端口名
+    // 标签文本
     "WIDTH": "宽",
     "HEIGHT": "高",
     "OFFSET_X": "原点偏移 X",

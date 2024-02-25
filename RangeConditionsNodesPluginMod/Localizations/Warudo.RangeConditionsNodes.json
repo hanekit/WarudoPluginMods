@@ -4,10 +4,10 @@
     "RANGE_CONDITIONS_NODES_PLUGIN_NAME": "Range Conditions Nodes",
     "RANGE_CONDITIONS_NODES_PLUGIN_DESCRIPTION": "Contains several range conditions nodes.",
     "RANGE_CONDITIONS": "Range Conditions",
-    // Node Name
+    // Node Title
     "FLOAT_RANGE_CONDITIONS_TO_INTEGER": "Float Range Conditions To Integer",
     "FLOAT_RANGE_CONDITIONS_TO_STRING": "Float Range Conditions To String",
-    // Port Name
+    // Label Text
     "INPUT_FLOAT_VARIABLE": "Input Float 𝑥",
     "CONDITIONS": "Conditions",
     "RANGE": "Range",
@@ -21,10 +21,10 @@
     "RANGE_CONDITIONS_NODES_PLUGIN_NAME": "范围条件节点包",
     "RANGE_CONDITIONS_NODES_PLUGIN_DESCRIPTION": "包含多个范围条件节点。",
     "RANGE_CONDITIONS": "范围条件",
-    // 节点名
+    // 节点标题
     "FLOAT_RANGE_CONDITIONS_TO_INTEGER": "Float 范围条件到 Integer",
     "FLOAT_RANGE_CONDITIONS_TO_STRING": "Float 范围条件到 String",
-    // 端口名
+    // 标签文本
     "INPUT_FLOAT_VARIABLE": "输入 Float 𝑥",
     "CONDITIONS": "条件",
     "RANGE": "范围",
