@@ -1,5 +1,13 @@
+# hanekit's Warudo Plugin Mods
+
+---
+
+这个库放置了 hanekit 编写的用于 Warudo 的插件模组 (Plugin Mod) 的源代码。
+
+
+
 | `Name`                                    | `Id`                                           |
-| ----------------------------------------- | :--------------------------------------------- |
+| ----------------------------------------- |:---------------------------------------------- |
 | `FloatMovingAverageNode`                  | `hanekit-c572faf8-5f42-43d8-83ed-71a37a3d0c34` |
 | `Vector3MovingAverageNode`                | `hanekit-e1136b66-7bff-4ff7-ac07-b8459c595e0b` |
 | `WarudoWindowSizeNode`                    | `hanekit-ba836451-2d4f-4de3-987e-0f71ba29dd21` |
@@ -15,4 +23,3 @@
 | `EulerAnglesComponentsSliderNode`         | `EulerAnglesComponentsSliderNode`              |
 | `FloatRangeConditionsToIntegerNode`       | `hanekit-99bc73fc-7bdd-4df0-afdb-328d7e217d6e` |
 | `FloatRangeConditionsToStringNode`        | `hanekit-4a748d39-04b9-48fe-acad-d143905ea8f0` |
-
