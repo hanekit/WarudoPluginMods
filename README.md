@@ -10,10 +10,10 @@ This library places the source code for the Plugin Mod for Warudo written by han
 | Moving Average Nodes   | C# Basic                                                                          |
 | Mouse Position Nodes   | Static Text  `[Markdown]`                                                         |
 | Slider Nodes           | - Slider<br />- Dynamic Text `[Markdown]` `WatchAll()` <br />- Button `[Trigger]` |
-| Range Conditions Nodes | C# Generic                                                                        |
+| Range Conditions Nodes | - C# Generic<br/>- `StructuredData`                   |
 
-V2 is a version refactored with generics, but it was not uploaded because of incompatibilities that could cause older versions of configured nodes to disappear.  
-V2 是用泛型重构的版本，但是因为不兼容，可能导致旧版已配置的节点消失，所以并没有上传。
+V2 folders is a version refactored with generics, but they were not uploaded to Steam because of incompatibilities that could cause older versions of configured nodes to disappear.  
+V2 文件夹是用泛型重构的版本，但是因为不兼容，可能导致旧版已配置的节点消失，所以并没有上传到 Steam。
 
 ## Nodes Table
 
