@@ -1,0 +1,20 @@
+{
+  "en": {
+    // Basic Info
+    "SLIDER_NODES_PLUGIN_NAME": "Slider Nodes",
+    "SLIDER_NODES_PLUGIN_DESCRIPTION": "Contains several slider nodes.",
+    "SLIDER_NODES_NODE_CATEGORY": "Slider",
+    // Node Title
+    // Label Text
+    "RESET_DATA": "Reset Data",
+  },
+  "zh_CN": {
+    // 基础信息
+    "SLIDER_NODES_PLUGIN_NAME": "滑杆节点包",
+    "SLIDER_NODES_PLUGIN_DESCRIPTION": "包含多个滑杆节点。",
+    "SLIDER_NODES_NODE_CATEGORY": "滑杆",
+    // 节点标题
+    // 标签文本
+    "RESET_DATA": "重置数据",
+  }
+}
