@@ -1,28 +1,24 @@
 # hanekit's Warudo Plugin Mods
 
----
-
-This library places the source code for the Plugin Mod for Warudo written by hanekit.
+This library places the source code for the Plugin Mod for Warudo written by hanekit.  
 这个库放置了 hanekit 编写的用于 Warudo 的插件模组 (Plugin Mod) 的源代码。
-
----
 
 ## Plugin List
 
 | Name                   | Practice Contents                                                                 |
-| ---------------------- | --------------------------------------------------------------------------------- |
+|:---------------------- |:--------------------------------------------------------------------------------- |
 | Moving Average Nodes   | C# Basic                                                                          |
 | Mouse Position Nodes   | Static Text  `[Markdown]`                                                         |
 | Slider Nodes           | - Slider<br />- Dynamic Text `[Markdown]` `WatchAll()` <br />- Button `[Trigger]` |
 | Range Conditions Nodes | C# Generic                                                                        |
 
-V2 is a version refactored with generics, but it was not uploaded because of incompatibilities that could cause older versions of configured nodes to disappear.
+V2 is a version refactored with generics, but it was not uploaded because of incompatibilities that could cause older versions of configured nodes to disappear.  
 V2 是用泛型重构的版本，但是因为不兼容，可能导致旧版已配置的节点消失，所以并没有上传。
 
 ## Nodes Table
 
 | `Name`                                    | `Id`                                           |
-| ----------------------------------------- |:---------------------------------------------- |
+|:----------------------------------------- |:---------------------------------------------- |
 | `FloatMovingAverageNode`                  | `hanekit-c572faf8-5f42-43d8-83ed-71a37a3d0c34` |
 | `Vector3MovingAverageNode`                | `hanekit-e1136b66-7bff-4ff7-ac07-b8459c595e0b` |
 | `WarudoWindowSizeNode`                    | `hanekit-ba836451-2d4f-4de3-987e-0f71ba29dd21` |
