@@ -2,9 +2,24 @@
 
 ---
 
+This library places the source code for the Plugin Mod for Warudo written by hanekit.
 这个库放置了 hanekit 编写的用于 Warudo 的插件模组 (Plugin Mod) 的源代码。
 
+---
 
+## Plugin List
+
+| Name                   | Practice Contents                                                                 |
+| ---------------------- | --------------------------------------------------------------------------------- |
+| Moving Average Nodes   | C# Basic                                                                          |
+| Mouse Position Nodes   | Static Text  `[Markdown]`                                                         |
+| Slider Nodes           | - Slider<br />- Dynamic Text `[Markdown]` `WatchAll()` <br />- Button `[Trigger]` |
+| Range Conditions Nodes | C# Generic                                                                        |
+
+V2 is a version refactored with generics, but it was not uploaded because of incompatibilities that could cause older versions of configured nodes to disappear.
+V2 是用泛型重构的版本，但是因为不兼容，可能导致旧版已配置的节点消失，所以并没有上传。
+
+## Nodes Table
 
 | `Name`                                    | `Id`                                           |
 | ----------------------------------------- |:---------------------------------------------- |
