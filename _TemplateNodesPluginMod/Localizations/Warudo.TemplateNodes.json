@@ -1,0 +1,16 @@
+{
+  "en": {
+    // Basic Info
+    "[TEMPLATE]_NODES_PLUGIN_NAME": "Range Conditions Nodes",
+    "[TEMPLATE]_NODES_PLUGIN_DESCRIPTION": "Contains several range conditions nodes.",
+    // Node Title
+    // Label Text
+  },
+  "zh_CN": {
+    // 基础信息
+    "[TEMPLATE]_NODES_NODES_PLUGIN_NAME": "范围条件节点包",
+    "[TEMPLATE]_NODES_NODES_PLUGIN_DESCRIPTION": "包含多个范围条件节点。",
+    // 节点标题
+    // 标签文本
+  }
+}
