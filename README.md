@@ -3,6 +3,8 @@
 This library places the source code for the Plugin Mod for Warudo written by hanekit.  
 这个库放置了 hanekit 编写的用于 Warudo 的插件模组 (Plugin Mod) 的源代码。
 
+***Pull Requests* if you want to add localizations for other languages.**
+
 ## Plugin List
 
 | Name                   | Practice Contents                                                                 |
@@ -11,7 +13,7 @@ This library places the source code for the Plugin Mod for Warudo written by han
 | Mouse Position Nodes   | - Static Text  `[Markdown]`                                                       |
 | Slider Nodes           | - Slider<br />- Dynamic Text `[Markdown]` `WatchAll()` <br />- Button `[Trigger]` |
 | Range Conditions Nodes | - C# Generic<br/>- `StructuredData`                                               |
-| Rotating Anchor Asset  | - Basic Asset                                         |
+| Rotating Anchor Asset  | - Basic Asset                                                                     |
 
 V2 folders is a version refactored with generics, but they were not uploaded to Steam because of incompatibilities that could cause older versions of configured nodes to disappear.  
 V2 文件夹是用泛型重构的版本，但是因为不兼容，可能导致旧版已配置的节点消失，所以并没有上传到 Steam。
@@ -36,3 +38,5 @@ V2 文件夹是用泛型重构的版本，但是因为不兼容，可能导致�
 | `QuaternionComponentsSliderNode`          | `hanekit-4ab40d50-7cfd-4042-a7ea-0cc808dd0b4d` |
 | `FloatRangeConditionsToIntegerNode`       | `hanekit-99bc73fc-7bdd-4df0-afdb-328d7e217d6e` |
 | `FloatRangeConditionsToStringNode`        | `hanekit-4a748d39-04b9-48fe-acad-d143905ea8f0` |
+
+
