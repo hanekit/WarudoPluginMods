@@ -1,0 +1,36 @@
+{
+  "en": {
+    // Basic Info
+    "ROTATING_ANCHOR_ASSET_PLUGIN_NAME": "Rotating Anchor",
+    "ROTATING_ANCHOR_ASSET_PLUGIN_DESCRIPTION": "An anchor that automatically rotates around a specified axis.",
+    "SPECIAL_ANCHOR": "Special Anchor",
+    //  Title
+    "ROTATING_ANCHOR": "Rotating Anchor",
+    // Label Text
+    "SELF_ROTATION": "Rotation",
+    "ENABLE_ROTATION": "Enable Rotation",
+    "BASIC_ROTATION": "Basic Rotation",
+    "ROTATE_AXIS": "Rotate Axis",
+    "SET_TO_X_AXIS": "Set to X Axis 🟥",
+    "SET_TO_Y_AXIS": "Set to Y Axis 🟩",
+    "SET_TO_Z_AXIS": "Set to Z Axis 🟦",
+    "ROTATE_SPEED": "Rotate Speed (degrees/second)"
+  },
+  "zh_CN": {
+    // 基础信息
+    "ROTATING_ANCHOR_ASSET_PLUGIN_NAME": "自转锚点",
+    "ROTATING_ANCHOR_ASSET_PLUGIN_DESCRIPTION": "绕指定轴自行旋转的锚点。",
+    "SPECIAL_ANCHOR": "特殊锚点",
+    // 资产标题
+    "ROTATING_ANCHOR": "自转锚点",
+    // 标签文本
+    "SELF_ROTATION": "自转",
+    "ENABLE_ROTATION": "启用自转",
+    "BASIC_ROTATION": "基础旋转",
+    "ROTATE_AXIS": "旋转轴",
+    "SET_TO_X_AXIS": "设为 X 轴 🟥",
+    "SET_TO_Y_AXIS": "设为 Y 轴 🟩",
+    "SET_TO_Z_AXIS": "设为 Z 轴 🟦",
+    "ROTATE_SPEED": "旋转速度 (度/秒)"
+  }
+}
